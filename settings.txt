@@ -1,0 +1,3 @@
+TIMEOUT		5	#Connect Timeout
+TCP_TIMEOUT	3600	#TCP Inactivity Timeout
+UDP_TIMEOUT	10	#UDP Inactivity Timeout

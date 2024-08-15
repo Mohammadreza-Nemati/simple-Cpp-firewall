@@ -1,0 +1,8 @@
+#PROTO	LOCAL_IP	PORT	REMOTE_IP	PORT	PROCESS		ACTION
+#===================================================================================
+*	*		*	94.182.146.33	*	*		ACCEPT
+*	*		*	94.130.149.216	*	*		ACCEPT
+*	*		*	77.238.123.20	*	*		ACCEPT
+*	*		*	*		*	svchost.exe	ACCEPT
+*	*		*	*		*	System		ACCEPT
+#*	*		*	*		*	*		DROP
